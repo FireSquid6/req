@@ -1,5 +1,5 @@
 # req
-A simple http requests sender for the command line
+A simple http requests sender for the command line built in go.
 
 
 # Why does this even exist?
